@@ -1,5 +1,13 @@
 # credit-risk-classification
 
+## Sources
+
+1. Starter Code provided in the asssignments file
+2. Stack Overflow was a great help when experiencing error messages
+3. I occasionally used Chat GPT to help edit code to fix errors
+4. Assignment description
+
+
 ## Overview of the Analysis
 
 The overall goal was to train a machine learning model to accurately predict whether a loan was healthy or high-risk using supervised learning.
